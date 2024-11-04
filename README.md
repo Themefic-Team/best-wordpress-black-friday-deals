@@ -114,7 +114,6 @@ Check out all the Hot deals for different WordPress Plugins.
 ## WordPress Themes
 | Name | Description | Discount Code | Deal Link |
 | ---| ------ | ------ | ------ |
-| Product Name | Product Description. | *** OFF with code **Your Coupon Code** | [Grab the Deal](https://example.com) |
 
 [⬆️ Back to Top](#table-of-contents)
 
@@ -129,6 +128,5 @@ Check out all the Hot deals for different WordPress Plugins.
 ## Miscellaneous
 | Name | Description | Discount Code | Deal Link |
 | ---| ------ | ------ | ------ |
-| Product Name | Product Description. | *** OFF with code **Your Coupon Code** | [Grab the Deal](https://example.com) |
 
 [⬆️ Back to Top](#table-of-contents)
