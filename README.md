@@ -12,8 +12,8 @@ If you are planning for Pull request, please make sure:
 Additional requests:
 - 👉 Give this repo a star for better ranking!
 - 👉 Bookmark this page for next year 2025!
-- 👉 [Follow us on Twitter](https://twitter.com/themefic) 😉
-- 👉 We would like to thank [Tony Dinh](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) for this deal repo idea.
+- 👉 [Follow us on Twitter](https://twitter.com/themefic) 
+- 👉 Thank you [Tony Dinh](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) for this deal repo idea.
 
 ## Sponsored Deals
 
@@ -35,6 +35,7 @@ Total deals: 36
 - [WordPress Plugins](#wordpress-plugins)
    - [Booking Plugins](#booking-plugins)
    - [Block Plugins](#block-plugins)
+   - [Dashboard Plugins](#dashboard-plugins)
    - [Form Plugins](#form-plugins)
    - [Slider Plugins](#slider-plugins)
    - [WooCommerce](#woocommerce)
@@ -50,11 +51,18 @@ Check out all the Hot deals for different WordPress Plugins.
 | Name | Description | Discount Code | Deal Link |
 | ---| ------ | ------ | ------ |
 | Eventin | Event management plugin for WordPress featuring multivendor marketplace. | 50% OFF with code **TWBF50** | [Grab the Deal](https://themewinter.com/deals/) |
+| WPCafe | Restaurant management plugin for WordPress featuring online ordering, reservations. | 50% OFF with code **TWBF50** | [Grab the Deal](https://themewinter.com/deals/) |
 
 ### Block Plugins
 | Name | Description | Discount Code | Deal Link |
 | ---| ------ | ------ | ------ |
 | Master Blocks | 50+ blocks and templates, advanced customization options, and performance optimization. | 50% OFF with code **BFCM50** | [Grab the Deal](https://jeweltheme.com/master-blocks/pricing) |
+
+### Dashboard Plugins
+| Name | Description | Discount Code | Deal Link |
+| ---| ------ | ------ | ------ |
+| MainWP Pro | Managing client sites has evolved! With MainWP, get full control and insights across your network from one powerful dashboard. | $50.00 Off Yearly Pro Package with code **BF2024** | [Grab the Deal](https://mainwp.com/mainwp-black-friday/) |
+| Admin Bar Editor | Take control of your WordPress admin bar with Admin Bar Editor. | 50% OFF with code **BFCM50** | [Grab the Deal](https://jeweltheme.com/admin-bar-editor) |
 
 ### Form Plugins
 | Name | Description | Discount Code | Deal Link |
