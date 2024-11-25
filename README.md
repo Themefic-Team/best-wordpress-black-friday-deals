@@ -124,11 +124,10 @@ Check out all the Hot deals for different WordPress Plugins.
 | Indystack | Cloudways is a cloud-based platform known for its lightning-fast speeds. | 40% discount for 4 Months on all hosting plans + 40 free migrations. Use Coupon: **BFCM2024** | [Grab the Deal](https://platform.cloudways.com/signup?coupon=BFCM2024) |
 
 [⬆️ Back to Top](#table-of-contents)
-| HammerAI | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18**  | [Grab the Deal](https://www.hammerai.com/) |
 
 ## Miscellaneous
 | Name | Description | Discount Code | Deal Link |
 | ---| ------ | ------ | ------ |
-
+| HammerAI | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18**  | [Grab the Deal](https://www.hammerai.com/) |
 
 [⬆️ Back to Top](#table-of-contents)
